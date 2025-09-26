@@ -46,5 +46,4 @@ Task Format
 
 📄 License
 This project is open-source and free to use under the MIT License.
-Let me know if you'd like a version with badges, emojis, or GitHub-style enhancements!
 
